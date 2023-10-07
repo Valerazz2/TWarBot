@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwrEs5H3GOf35MTT8oSvRvojBq8cG+qIrQDe+OmyPuuUPQfs26X4Eb+vdzMraRKBp5tCbIVaXGO7p3vw6dpSLw==",
+  "success": true,
+  "projectFilePath": "D:\\val\\chess\\TelegramWarBot\\TelegramWarBot\\TelegramWarBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valeraz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\valeraz\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
